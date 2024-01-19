@@ -1,0 +1,19 @@
+1、adam中衰减速率0.999，动量系数0.9
+
+,especially when over people.
+
+without overrelying on expert knowledge for modeling and analysis
+
+these devices is increasingly important as thry become more ubiquitous
+
+Transformer has not been widely applied as the backbone in the field of fault diagnosis,
+especially
+
+the model-based diagnosis method has good robustness and can diagnose unknown faults, but the premise of this method is to establish an accurate model for the target system, but the structual parameters of the quadrotor UAV are relatively complicated.
+Therefore, this method relies too much on the mathematical model of the
+object, which is not easy to implement in practical applications and has limited scalability
+
+a real-time simulation platform
+
+Feature extraction remove useless data and preserve important 
+data
